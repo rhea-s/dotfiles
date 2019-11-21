@@ -1,0 +1,10 @@
+Host *
+ AddKeysToAgent yes
+ UseKeychain yes
+ IdentityFile ~/.ssh/id_rsa
+
+# CAEN
+Host caen
+	HostName login.engin.umich.edu
+	User rheas
+	Compression yes
