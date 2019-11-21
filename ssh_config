@@ -5,6 +5,6 @@ Host *
 
 # CAEN
 Host caen
-	HostName login.engin.umich.edu
-	User rheas
-	Compression yes
+ HostName login.engin.umich.edu
+ User rheas
+ Compression yes
